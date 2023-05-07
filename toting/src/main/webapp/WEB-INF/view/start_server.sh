@@ -1,8 +1,3 @@
-echo "sadfjklasdfl"
-
-echo $0
-echo $#
-echo $$
 
 param=${param}
 
